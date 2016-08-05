@@ -1,0 +1,32 @@
+{
+  "name": "itsme.js",
+  "version": "0.0.1",
+  "description": "ItsMe.js is the framework for building apps with the ItsMe platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/ThrowAwayGames/itsmejs.git"
+  },
+  "author": "Adam Clarke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/ThrowAwayGames/itsmejs/issues"
+  },
+  "homepage": "https://gitlab.com/ThrowAwayGames/itsmejs#README",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.1.0",
+    "gulp-continuous-concat": "^0.1.1",
+    "gulp-gzip": "^1.2.0",
+    "gulp-uglify": "^1.5.4",
+    "gulp-watch": "^4.2.4"
+  },
+  "dependencies": {
+    "bower": "^1.7.9",
+    "gulp-concat": "^2.6.0",
+    "three": "^0.76.1"
+  }
+}

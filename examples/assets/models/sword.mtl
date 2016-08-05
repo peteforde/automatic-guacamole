@@ -1,0 +1,207 @@
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl aqueous
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+Ni 1.5
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl blacksuit
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.31 0.31 0.31
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl body
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.31 0.31 0.31
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl hat
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl jacket
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.56 0.56 0.56
+Ni 1
+Ns 344
+Tf 1 1 1
+d 1
+
+newmtl right_eyeball
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+Ni 1
+Ns 600
+Tf 1 1 1
+d 1
+
+newmtl right_iris
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+Ni 1
+Ns 200
+Tf 1 1 1
+d 1
+
+newmtl rubbersuit
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl shirt
+Ka 0.185 0.185 0.185
+Kd 1 1 1
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl shoes
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+Ni 1
+Ns 414
+Tf 1 1 1
+d 1
+
+newmtl suitcase
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+Ni 1
+Ns 414
+Tf 1 1 1
+d 1
+
+newmtl whitebase
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.02 0.02 0.02
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl defaultMat
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.55 0.55 0.55
+Ni 1
+Ns 94
+Tf 1 1 1
+d 1
+
+newmtl Default
+Ka 0.2 0.2 0.2
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl sword
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0.7 0.7 0.7
+Ni 1
+Ns 819
+Tf 1 1 1
+d 1
+
+newmtl defaultMat
+Ka 0.2 0.2 0.2
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl guard
+Ka 0.04 0.04 0.04
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl defaultMat
+Ka 0.2 0.2 0.2
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl guard
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl sword
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0.535 0.535 0.535
+Ni 1
+Ns 500
+Tf 1 1 1
+d 1
+
+newmtl Default
+Ka 0.2 0.2 0.2
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ni 1
+Ns 400
+Tf 1 1 1
+d 1
+
+newmtl Default
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0.7 0.7 0.7
+Ni 1
+Ns 819
+Tf 1 1 1
+d 1
+

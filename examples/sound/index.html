@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>itsme</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <style>
+      body {
+        font-family:Monospace;
+        font-size:13px;
+        font-weight: bold;
+
+        background-color: #fff;
+        margin: 0px;
+        overflow: hidden;
+        width: 100%;
+        height: 100%;
+      }
+
+      .info {
+        position: absolute;
+        top: 0px;
+        width: 100%;
+        text-align: center;
+        color: #fff;
+        text-shadow: 0 1px 1px #000;
+      }
+
+    </style>
+  </head>
+  <body>
+    <div id="renderer"></div>
+
+    <div class="info">
+      <p data-message>Loading itsme</p>
+    </div>
+
+    <script src="/lib/promise.js"></script>
+    <script src="/lib/three.js"></script>
+    <script src="/lib/ColladaLoader.js"></script>
+    <script src="/lib/Animation.js"></script>
+    <script src="/lib/AnimationHandler.js"></script>
+    <script src="/lib/OBJLoader.js"></script>
+    <script src="/lib/MTLLoader.js"></script>
+    <script src="/lib/Detector.js"></script>
+    <script src="/lib/Mirror.js"></script>
+    <script src="/lib/OrbitControls.js"></script>
+    <script src="/lib/VRControls.js"></script>
+    <script src="/lib/VREffect.js"></script>
+    <script src="/lib/dat.gui.min.js"></script>
+    <script src="/lib/webvr-polyfill.js"></script>
+    <script src="/lib/webvr-manager.js"></script>
+    <script src="/lib/js.cookie.js"></script>
+    <script type="text/javascript">
+      var root_url = "/examples/";
+      var remote_url = "https://s3.amazonaws.com/itsme3d/";
+      var co = true;
+      var debug = false;
+    </script>
+    <script src="/lib/all.js"></script>
+    <script src="./scripts/main.js"></script>
+
+  </body>
+</html>
